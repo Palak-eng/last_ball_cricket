@@ -82,7 +82,7 @@ Deploy online using:
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here)
+https://last-ball-cricket.netlify.app/
 
 ---
 
